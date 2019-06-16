@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\A19 Ex03 NatiRada 307730218 TonyElkharrat 332674225\FacebookLogic\obj\Debug\FacebookLogic.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\A19 Ex03 NatiRada 307730218 TonyElkharrat 332674225\FacebookLogic\obj\Debug\FacebookLogic.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\A19 Ex03 NatiRada 307730218 TonyElkharrat 332674225\FacebookLogic\bin\Debug\FacebookLogic.dll
+C:\Users\USER\Desktop\A19 Ex03 NatiRada 307730218 TonyElkharrat 332674225\FacebookLogic\bin\Debug\FacebookLogic.pdb
+C:\Users\USER\Desktop\A19 Ex03 NatiRada 307730218 TonyElkharrat 332674225\FacebookLogic\bin\Debug\Facebook.dll
+C:\Users\USER\Desktop\A19 Ex03 NatiRada 307730218 TonyElkharrat 332674225\FacebookLogic\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\USER\Desktop\A19 Ex03 NatiRada 307730218 TonyElkharrat 332674225\FacebookLogic\obj\Debug\FacebookLogic.csproj.CopyComplete
+C:\Users\USER\Desktop\A19 Ex03 NatiRada 307730218 TonyElkharrat 332674225\FacebookLogic\obj\Debug\FacebookLogic.dll
+C:\Users\USER\Desktop\A19 Ex03 NatiRada 307730218 TonyElkharrat 332674225\FacebookLogic\obj\Debug\FacebookLogic.pdb
+C:\Users\USER\Desktop\Project DP\FacebookApp\FacebookLogic\bin\Debug\FacebookLogic.dll
+C:\Users\USER\Desktop\Project DP\FacebookApp\FacebookLogic\bin\Debug\FacebookLogic.pdb
+C:\Users\USER\Desktop\Project DP\FacebookApp\FacebookLogic\obj\Debug\FacebookLogic.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Project DP\FacebookApp\FacebookLogic\obj\Debug\FacebookLogic.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Project DP\FacebookApp\FacebookLogic\obj\Debug\FacebookLogic.csproj.CopyComplete
+C:\Users\USER\Desktop\Project DP\FacebookApp\FacebookLogic\obj\Debug\FacebookLogic.dll
+C:\Users\USER\Desktop\Project DP\FacebookApp\FacebookLogic\obj\Debug\FacebookLogic.pdb
